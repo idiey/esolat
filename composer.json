@@ -11,7 +11,7 @@
     ],
     "license": "MIT",
     "require": {
-        "fabpot/goutte": "~2.0",
+        "fabpot/goutte": "~3.2",
         "jwage/purl": "0.0.6",
         "desarrolla2/cache": "^2.1"
     },
